@@ -28,12 +28,15 @@ This project lets you upload your own images and apply one of the following arti
 # Example Outputs
 
 **Cartoon Filter**
+
 <img width="388" height="289" alt="image" src="https://github.com/user-attachments/assets/feab797c-4352-4f36-8d0a-31e41b4377e1" />
 
 **Pencil Sketch Filter**
+
 <img width="443" height="308" alt="image" src="https://github.com/user-attachments/assets/d258f7ef-7802-4d32-b412-4f841037ea99" />
 
 **Oil Paint Filter**
+
 <img width="377" height="309" alt="image" src="https://github.com/user-attachments/assets/dc6cedf3-7666-4f41-bb7f-c0c30c3b63f1" />
 
 

@@ -1,35 +1,43 @@
-Project: "Artistic Filters"
-with OpenCV (Google Colab)
+# Artistic Image Filters with OpenCV
+->Transform your photos into stunning artworks directly in Google Colab! A computer vision based project. 
 
-Apply stunning artistic filters to your own images directly in Google Colab!  
-This project lets users **upload their image** and apply one of the following filters:
+# Filters Available
+This project lets you upload your own images and apply one of the following artistic filters:
+1) Cartoon Filter — Converts your image into a fun, cartoon-style drawing.
+2) Pencil Sketch Filter — Gives a realistic, hand-drawn pencil sketch effect.
+3) Oil Paint Filter — Simulates an oil painting effect for a creative touch.
 
-**Cartoon Filter** — turns your image into a cartoon-style drawing  
-**Pencil Sketch Filter** — gives a realistic hand-drawn sketch look  
-**Oil Paint Filter** — simulates an oil painting effect using OpenCV
+# Features
+1) Interactive image upload and filter selection
+2) Real-time preview of filtered images
+3) Works entirely in Google Colab (no local setup required)
+4) Lightweight and easy to use
+
+# Technologies Used
+1) Python 3
+2) OpenCV (opencv-contrib-python)
+3) Google Colab
+4) Matplotlib (for displaying images)
+
+# How to Use
+1) Open the Colab notebook.
+2) Upload your image using the file upload widget.
+3) Choose your desired filter when prompted.
+4) View the transformed image instantly.
+
+# Example Outputs
+
+**Cartoon Filter**
+<img width="388" height="289" alt="image" src="https://github.com/user-attachments/assets/feab797c-4352-4f36-8d0a-31e41b4377e1" />
+
+**Pencil Sketch Filter**
+<img width="443" height="308" alt="image" src="https://github.com/user-attachments/assets/d258f7ef-7802-4d32-b412-4f841037ea99" />
+
+**Oil Paint Filter**
+<img width="377" height="309" alt="image" src="https://github.com/user-attachments/assets/dc6cedf3-7666-4f41-bb7f-c0c30c3b63f1" />
 
 
-## Features
-- Upload your own image
-- Choose your desired filter through an interactive menu
-- View real-time results directly in Colab
+📝 Author
+Built with ❤️ by Sahab Mushtaq
 
-## 🧠 Technologies Used
-- Python 3
-- OpenCV (`opencv-contrib-python`)
-- Google Colab
-- Matplotlib (for image display)
-
-
-##  How to Use
-1. Open the Colab notebook
-2. Upload your image
-3. Choose a filter when prompted
-4. View the output instantly
-
-
-## 📝 Author
-Built with ❤️ by [Sahab Mushtaq ](https://github.com/Sahab00)  
-Feel free to fork or star ⭐ the repo if you found it useful.
-
-
+--->> Feel free to fork or star ⭐ the repository if you find it useful!
